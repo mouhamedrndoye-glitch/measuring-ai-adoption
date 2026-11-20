@@ -1,5 +1,7 @@
 # Measuring AI Adoption
 
+🎬 **Demo Video:** [https://youtu.be/lvUOonhr5vI](https://youtu.be/lvUOonhr5vI)
+
 A three-agent system built in IBM watsonx Orchestrate that helps early-career bank associates use AI safely on stakeholder projects.
 
 ---
